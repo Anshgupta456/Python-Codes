@@ -1,7 +1,6 @@
 a = str(9.6)
 b = int(45.65)
 c = float(4)
-print(a)
-print(b)
-print(c)
+print(a,b,c)
+
 
