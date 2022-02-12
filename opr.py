@@ -10,6 +10,6 @@ e = 8
 f = 4
 print(e/f)
 
-g = 90
+g = 9
 h = 3
 print(g*h)
